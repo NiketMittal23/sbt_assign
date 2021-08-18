@@ -1,4 +1,4 @@
-SBT_Assignment
+
 Create a module namely, http.
 
 Add library dependency for akka-http and akka-stream in this module.
